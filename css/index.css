@@ -1,0 +1,31 @@
+body {
+	font-family: 'Encode Sans Condensed', sans-serif;
+}
+a {
+	color: #D81159;
+}
+h1 {
+	font-size: 50px;
+	color: #D81159;
+}
+
+h2 {
+	font-size: 15px;
+}
+.navbar-default{
+	background-color: black;
+	border-color: black;
+}
+
+.navbar-default .navbar-nav>li>a {
+	color: white;
+}
+
+.img-circle {
+	border-radius: 50%;
+}
+
+.subjecthead{
+	font-size: 15px;
+	color: #D81159;
+}
